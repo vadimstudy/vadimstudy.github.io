@@ -1,0 +1,28 @@
+table { border-collapse: collapse; }
+td { border: 1px solid black; padding: 8px; text-align: center; }
+
+.tb td { width: 40px; height: 40px; padding: 0; }
+.cyan   { background-color: #00ffcc; }
+.cream  { background-color: #ffffcc; }
+.red    { background-color: red; }
+.blue   { background-color: blue; }
+.green  { background-color: lime; }
+.yellow { background-color: yellow; }
+
+.form-table td { border: none; text-align: left; padding: 3px; }
+.form-table td.label { text-align: right; }
+
+.title3  { color: blue; text-align: center; letter-spacing: 8px; font-size: 36px; }
+.fon-cyan   { background-color: cyan; }
+.fon-yellow { background-color: yellow; text-decoration: underline; }
+.fon-gray   { background-color: silver; font-family: Arial, sans-serif; font-size: 16px; }
+.fon-pink   { background-color: magenta; }
+.arial-bold { font-family: Arial, sans-serif; font-weight: bold; }
+.verdana    { font-family: Verdana, sans-serif; font-style: italic; }
+.blue-text  { color: blue; font-weight: bold; font-style: italic; }
+.red-text   { color: red; font-weight: bold; font-style: italic; }
+.right  { text-align: right; }
+.center { text-align: center; }
+
+#subtitle3 { color: purple; font-size: 26px; }
+#table-num { text-align: right; font-weight: bold; }
